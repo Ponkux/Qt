@@ -2,5 +2,6 @@
 
 效果图如下：
 
-![image](https://github.com/Ponkux/Qt/tree/master/pics/1.PNG)
+        Qt/pics/1.PNG
+      
 ![image](https://github.com/Ponkux/Qt/tree/master/pics/2.PNG)
